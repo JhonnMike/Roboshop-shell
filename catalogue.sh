@@ -1,4 +1,5 @@
-!# /bin/bash
+!#/bin/bash
+ set -e
  catalogue Setup
  curl -sL https://rpm.nodesource.com/setup_lts.x | bash
  yum install nodejs -y

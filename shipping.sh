@@ -1,6 +1,6 @@
 #! /bin/bash
 # shipping setup
-
+ set -e
  yum install maven -y
  useradd roboshop
  cd /home/roboshop

@@ -1,6 +1,6 @@
 !# /bin/bash
 # payment setup
-
+ set -e
  yum install python36 gcc python3-devel -y
  useradd roboshop
  cd /home/roboshop
