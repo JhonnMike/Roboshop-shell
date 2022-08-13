@@ -1,4 +1,4 @@
-!#/bin/bash
+
 # cart setup
 
  set -e
